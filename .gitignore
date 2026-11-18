@@ -1,0 +1,11 @@
+# Security & Secrets
+*token*
+*Token*
+*.key
+*.secret
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
