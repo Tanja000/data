@@ -24,7 +24,7 @@ import io
 import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timezone
 
 USER_AGENT = "WhaleRadar datawhaleradar@proton.me"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -39,7 +39,7 @@ LOG_FILE = os.path.join(LOGS_DIR, "sync.log")
 STATUS_FILE = os.path.join(WHALERADAR_DIR, "sync_status.json")
 
 def log(msg):
-    ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     line = f"[{ts}] {msg}"
     print(line)
     try:
@@ -77,7 +77,7 @@ def sync_sec_form4():
             updated_el = entry.find("atom:updated", ns)
             if link_el is not None and "href" in link_el.attrib:
                 href = link_el.attrib["href"]
-                f_date = (updated_el.text or "")[:10] if updated_el is not None else datetime.utcnow().strftime("%Y-%m-%d")
+                f_date = (updated_el.text or "")[:10] if updated_el is not None else datetime.now(timezone.utc).strftime("%Y-%m-%d")
                 entries.append((href, f_date))
         log(f"SEC: Found {len(entries)} entries in current Atom feed.")
     except Exception as e:
@@ -271,7 +271,7 @@ def sync_sec_form4():
     final_alerts = final_alerts[:2000]
 
     sec_payload = {
-        "updated_at": datetime.utcnow().isoformat() + "Z",
+        "updated_at": datetime.now(timezone.utc).isoformat() + "Z",
         "count": len(final_alerts),
         "source": "U.S. Securities and Exchange Commission (EDGAR)",
         "source_url": "https://www.sec.gov/edgar/search/",
@@ -297,7 +297,7 @@ def sync_cftc_cot():
         log(f"CFTC COT: Loaded {len(markets)} markets from FuturesBench.")
 
         out = {
-            "updated_at": datetime.utcnow().isoformat() + "Z",
+            "updated_at": datetime.now(timezone.utc).isoformat() + "Z",
             "report_date": fb_json.get("report_date", ""),
             "publication_date": fb_json.get("publication_date", ""),
             "report_week": fb_json.get("report_week", ""),
@@ -319,7 +319,7 @@ def sync_cftc_cot():
 def sync_congress_house():
     log("--> Starting U.S. House STOCK Act PTR sync...")
     congress_file = os.path.join(WHALERADAR_DIR, "congress_latest.json")
-    year = datetime.utcnow().year
+    year = datetime.now(timezone.utc).year
     zip_url = f"https://disclosures-clerk.house.gov/public_disc/financial-pdfs/{year}FD.zip"
 
     trades = []
@@ -369,7 +369,7 @@ def sync_congress_house():
 
     final_trades = list(combined_map.values())[:300]
     out = {
-        "updated_at": datetime.utcnow().isoformat() + "Z",
+        "updated_at": datetime.now(timezone.utc).isoformat() + "Z",
         "count": len(final_trades),
         "source": "Office of the Clerk, U.S. House of Representatives",
         "source_url": "https://disclosures-clerk.house.gov",
@@ -389,7 +389,7 @@ def main():
     log("==================================================================")
 
     stats = {
-        "sync_time": datetime.utcnow().isoformat() + "Z",
+        "sync_time": datetime.now(timezone.utc).isoformat() + "Z",
         "sec_count": 0,
         "cot_count": 0,
         "congress_count": 0,
