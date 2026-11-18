@@ -1,0 +1,911 @@
+[2026-10-30 14:35:00 UTC] ==================================================================
+[2026-10-30 14:35:00 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-30 14:35:00 UTC] ==================================================================
+[2026-10-30 14:35:01 UTC] --> Starting SEC Form 4 sync...
+[2026-10-30 14:35:02 UTC] SEC: Found 50 entries in current Atom feed.
+[2026-10-30 14:35:05 UTC] SEC: Parsed 10 new alerts.
+[2026-10-30 14:35:05 UTC] SEC Form 4: Saved 10 total entries to data/sec_form4_latest.json
+[2026-10-30 14:35:05 UTC] --> Starting CFTC COT sync...
+[2026-10-30 14:35:06 UTC] CFTC COT: Loaded 5 markets from FuturesBench.
+[2026-10-30 14:35:06 UTC] CFTC COT: Saved to data/cot_latest.json
+[2026-10-30 14:35:06 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-30 14:35:07 UTC] Congress: Found 3 PTR disclosures.
+[2026-10-30 14:35:07 UTC] ==================================================================
+[2026-10-30 14:35:07 UTC] Sync Completed Successfully! SEC: 10 | COT: 5 | Congress: 3
+[2026-10-30 14:35:07 UTC] ==================================================================
+[2026-10-30 14:55:04 UTC] ==================================================================
+[2026-10-30 14:55:04 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-30 14:55:04 UTC] ==================================================================
+[2026-10-30 14:55:04 UTC] --> Starting SEC Form 4 sync...
+[2026-10-30 14:55:05 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-10-30 14:55:16 UTC] SEC: Parsed 15 new alerts.
+[2026-10-30 14:55:16 UTC] SEC Form 4: Saved 22 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-10-30 14:55:16 UTC] --> Starting CFTC COT sync...
+[2026-10-30 14:55:16 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-10-30 14:55:16 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-10-30 14:55:16 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-30 14:55:16 UTC] Congress: Found 446 PTR filings in 2026FD.zip.
+[2026-10-30 14:55:17 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-10-30 14:55:17 UTC] ==================================================================
+[2026-10-30 14:55:17 UTC] Sync Completed Successfully! SEC: 22 | COT: 107 | Congress: 300
+[2026-10-30 14:55:17 UTC] ==================================================================
+[2026-10-30 15:54:46 UTC] ==================================================================
+[2026-10-30 15:54:46 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-30 15:54:46 UTC] ==================================================================
+[2026-10-30 15:54:46 UTC] --> Starting SEC Form 4 sync...
+[2026-10-30 15:54:47 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-10-30 15:54:57 UTC] SEC: Parsed 12 new alerts.
+[2026-10-30 15:54:57 UTC] SEC Form 4: Saved 12 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-10-30 15:54:57 UTC] --> Starting CFTC COT sync...
+[2026-10-30 15:54:57 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-10-30 15:54:57 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-10-30 15:54:57 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-30 15:54:57 UTC] Congress: Found 446 PTR filings in 2026FD.zip.
+[2026-10-30 15:54:57 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-10-30 15:54:57 UTC] ==================================================================
+[2026-10-30 15:54:57 UTC] Sync Completed Successfully! SEC: 12 | COT: 107 | Congress: 300
+[2026-10-30 15:54:57 UTC] ==================================================================
+[2026-10-30 18:59:53 UTC] ==================================================================
+[2026-10-30 18:59:53 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-30 18:59:53 UTC] ==================================================================
+[2026-10-30 18:59:53 UTC] --> Starting SEC Form 4 sync...
+[2026-10-30 18:59:54 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-10-30 19:00:36 UTC] SEC: Parsed 4 new alerts.
+[2026-10-30 19:00:36 UTC] SEC Form 4: Saved 16 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-10-30 19:00:36 UTC] --> Starting CFTC COT sync...
+[2026-10-30 19:00:37 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-10-30 19:00:37 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-10-30 19:00:37 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-30 19:00:37 UTC] Congress: Found 446 PTR filings in 2026FD.zip.
+[2026-10-30 19:00:37 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-10-30 19:00:37 UTC] ==================================================================
+[2026-10-30 19:00:37 UTC] Sync Completed Successfully! SEC: 16 | COT: 107 | Congress: 300
+[2026-10-30 19:00:37 UTC] ==================================================================
+[2026-10-30 22:55:45 UTC] ==================================================================
+[2026-10-30 22:55:45 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-30 22:55:45 UTC] ==================================================================
+[2026-10-30 22:55:45 UTC] --> Starting SEC Form 4 sync...
+[2026-10-30 22:55:46 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-10-30 22:55:55 UTC] SEC: Parsed 13 new alerts.
+[2026-10-30 22:55:55 UTC] SEC Form 4: Saved 29 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-10-30 22:55:55 UTC] --> Starting CFTC COT sync...
+[2026-10-30 22:55:55 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-10-30 22:55:55 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-10-30 22:55:55 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-30 22:55:55 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-10-30 22:55:55 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-10-30 22:55:55 UTC] ==================================================================
+[2026-10-30 22:55:55 UTC] Sync Completed Successfully! SEC: 29 | COT: 107 | Congress: 300
+[2026-10-30 22:55:55 UTC] ==================================================================
+[2026-10-31 02:05:57 UTC] ==================================================================
+[2026-10-31 02:05:57 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-31 02:05:57 UTC] ==================================================================
+[2026-10-31 02:05:57 UTC] --> Starting SEC Form 4 sync...
+[2026-10-31 02:05:57 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-10-31 02:06:08 UTC] SEC: Parsed 6 new alerts.
+[2026-10-31 02:06:08 UTC] SEC Form 4: Saved 35 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-10-31 02:06:08 UTC] --> Starting CFTC COT sync...
+[2026-10-31 02:06:08 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-10-31 02:06:08 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-10-31 02:06:08 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-31 02:06:09 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-10-31 02:06:09 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-10-31 02:06:09 UTC] ==================================================================
+[2026-10-31 02:06:09 UTC] Sync Completed Successfully! SEC: 35 | COT: 107 | Congress: 300
+[2026-10-31 02:06:09 UTC] ==================================================================
+[2026-10-31 03:17:19 UTC] ==================================================================
+[2026-10-31 03:17:19 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-31 03:17:19 UTC] ==================================================================
+[2026-10-31 03:17:19 UTC] --> Starting SEC Form 4 sync...
+[2026-10-31 03:17:19 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-10-31 03:17:27 UTC] SEC: Parsed 6 new alerts.
+[2026-10-31 03:17:27 UTC] SEC Form 4: Saved 35 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-10-31 03:17:27 UTC] --> Starting CFTC COT sync...
+[2026-10-31 03:17:27 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-10-31 03:17:27 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-10-31 03:17:27 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-31 03:17:28 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-10-31 03:17:28 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-10-31 03:17:28 UTC] ==================================================================
+[2026-10-31 03:17:28 UTC] Sync Completed Successfully! SEC: 35 | COT: 107 | Congress: 300
+[2026-10-31 03:17:28 UTC] ==================================================================
+[2026-10-31 10:02:24 UTC] ==================================================================
+[2026-10-31 10:02:24 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-31 10:02:24 UTC] ==================================================================
+[2026-10-31 10:02:24 UTC] --> Starting SEC Form 4 sync...
+[2026-10-31 10:02:25 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-10-31 10:02:35 UTC] SEC: Parsed 6 new alerts.
+[2026-10-31 10:02:35 UTC] SEC Form 4: Saved 6 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-10-31 10:02:35 UTC] --> Starting CFTC COT sync...
+[2026-10-31 10:02:35 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-10-31 10:02:35 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-10-31 10:02:35 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-31 10:02:36 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-10-31 10:02:36 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-10-31 10:02:36 UTC] ==================================================================
+[2026-10-31 10:02:36 UTC] Sync Completed Successfully! SEC: 6 | COT: 107 | Congress: 300
+[2026-10-31 10:02:36 UTC] ==================================================================
+[2026-10-31 16:30:39 UTC] ==================================================================
+[2026-10-31 16:30:39 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-31 16:30:39 UTC] ==================================================================
+[2026-10-31 16:30:39 UTC] --> Starting SEC Form 4 sync...
+[2026-10-31 16:30:40 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-10-31 16:30:50 UTC] SEC: Parsed 6 new alerts.
+[2026-10-31 16:30:50 UTC] SEC Form 4: Saved 6 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-10-31 16:30:50 UTC] --> Starting CFTC COT sync...
+[2026-10-31 16:30:50 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-10-31 16:30:50 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-10-31 16:30:50 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-31 16:30:50 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-10-31 16:30:50 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-10-31 16:30:50 UTC] ==================================================================
+[2026-10-31 16:30:50 UTC] Sync Completed Successfully! SEC: 6 | COT: 107 | Congress: 300
+[2026-10-31 16:30:50 UTC] ==================================================================
+[2026-10-31 20:47:38 UTC] ==================================================================
+[2026-10-31 20:47:38 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-10-31 20:47:38 UTC] ==================================================================
+[2026-10-31 20:47:38 UTC] --> Starting SEC Form 4 sync...
+[2026-10-31 20:47:39 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-10-31 20:47:47 UTC] SEC: Parsed 6 new alerts.
+[2026-10-31 20:47:47 UTC] SEC Form 4: Saved 6 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-10-31 20:47:47 UTC] --> Starting CFTC COT sync...
+[2026-10-31 20:47:48 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-10-31 20:47:48 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-10-31 20:47:48 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-10-31 20:47:48 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-10-31 20:47:48 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-10-31 20:47:48 UTC] ==================================================================
+[2026-10-31 20:47:48 UTC] Sync Completed Successfully! SEC: 6 | COT: 107 | Congress: 300
+[2026-10-31 20:47:48 UTC] ==================================================================
+[2026-11-01 00:33:01 UTC] ==================================================================
+[2026-11-01 00:33:01 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-01 00:33:01 UTC] ==================================================================
+[2026-11-01 00:33:01 UTC] --> Starting SEC Form 4 sync...
+[2026-11-01 00:33:01 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-01 00:33:08 UTC] SEC: Parsed 6 new alerts.
+[2026-11-01 00:33:08 UTC] SEC Form 4: Saved 6 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-01 00:33:08 UTC] --> Starting CFTC COT sync...
+[2026-11-01 00:33:09 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-01 00:33:09 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-01 00:33:09 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-01 00:33:09 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-11-01 00:33:09 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-01 00:33:09 UTC] ==================================================================
+[2026-11-01 00:33:09 UTC] Sync Completed Successfully! SEC: 6 | COT: 107 | Congress: 300
+[2026-11-01 00:33:09 UTC] ==================================================================
+[2026-11-01 08:23:57 UTC] ==================================================================
+[2026-11-01 08:23:57 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-01 08:23:57 UTC] ==================================================================
+[2026-11-01 08:23:57 UTC] --> Starting SEC Form 4 sync...
+[2026-11-01 08:23:57 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-01 08:24:05 UTC] SEC: Parsed 6 new alerts.
+[2026-11-01 08:24:05 UTC] SEC Form 4: Saved 6 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-01 08:24:05 UTC] --> Starting CFTC COT sync...
+[2026-11-01 08:24:05 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-01 08:24:05 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-01 08:24:05 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-01 08:24:05 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-11-01 08:24:05 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-01 08:24:05 UTC] ==================================================================
+[2026-11-01 08:24:05 UTC] Sync Completed Successfully! SEC: 6 | COT: 107 | Congress: 300
+[2026-11-01 08:24:05 UTC] ==================================================================
+[2026-11-01 16:30:40 UTC] ==================================================================
+[2026-11-01 16:30:40 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-01 16:30:40 UTC] ==================================================================
+[2026-11-01 16:30:40 UTC] --> Starting SEC Form 4 sync...
+[2026-11-01 16:30:40 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-01 16:30:50 UTC] SEC: Parsed 6 new alerts.
+[2026-11-01 16:30:50 UTC] SEC Form 4: Saved 6 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-01 16:30:50 UTC] --> Starting CFTC COT sync...
+[2026-11-01 16:30:50 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-01 16:30:50 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-01 16:30:50 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-01 16:30:50 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-11-01 16:30:50 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-01 16:30:50 UTC] ==================================================================
+[2026-11-01 16:30:50 UTC] Sync Completed Successfully! SEC: 6 | COT: 107 | Congress: 300
+[2026-11-01 16:30:50 UTC] ==================================================================
+[2026-11-01 21:29:07 UTC] ==================================================================
+[2026-11-01 21:29:07 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-01 21:29:07 UTC] ==================================================================
+[2026-11-01 21:29:07 UTC] --> Starting SEC Form 4 sync...
+[2026-11-01 21:29:08 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-01 21:29:20 UTC] SEC: Parsed 6 new alerts.
+[2026-11-01 21:29:20 UTC] SEC Form 4: Saved 6 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-01 21:29:20 UTC] --> Starting CFTC COT sync...
+[2026-11-01 21:29:20 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-01 21:29:20 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-01 21:29:20 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-01 21:29:20 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-11-01 21:29:20 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-01 21:29:20 UTC] ==================================================================
+[2026-11-01 21:29:20 UTC] Sync Completed Successfully! SEC: 6 | COT: 107 | Congress: 300
+[2026-11-01 21:29:20 UTC] ==================================================================
+[2026-11-02 01:07:45 UTC] ==================================================================
+[2026-11-02 01:07:45 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-02 01:07:45 UTC] ==================================================================
+[2026-11-02 01:07:45 UTC] --> Starting SEC Form 4 sync...
+[2026-11-02 01:07:59 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-02 01:08:17 UTC] SEC: Parsed 13 new alerts.
+[2026-11-02 01:08:17 UTC] SEC Form 4: Saved 19 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-02 01:08:17 UTC] --> Starting CFTC COT sync...
+[2026-11-02 01:08:17 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-02 01:08:17 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-02 01:08:17 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-02 01:08:17 UTC] Congress: Found 447 PTR filings in 2026FD.zip.
+[2026-11-02 01:08:17 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-02 01:08:17 UTC] ==================================================================
+[2026-11-02 01:08:17 UTC] Sync Completed Successfully! SEC: 19 | COT: 107 | Congress: 300
+[2026-11-02 01:08:17 UTC] ==================================================================
+[2026-11-02 21:27:13 UTC] ==================================================================
+[2026-11-02 21:27:13 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-02 21:27:13 UTC] ==================================================================
+[2026-11-02 21:27:13 UTC] --> Starting SEC Form 4 sync...
+[2026-11-02 21:27:14 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-02 21:27:27 UTC] SEC: Parsed 14 new alerts.
+[2026-11-02 21:27:27 UTC] SEC Form 4: Saved 33 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-02 21:27:27 UTC] --> Starting CFTC COT sync...
+[2026-11-02 21:27:27 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-02 21:27:27 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-02 21:27:27 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-02 21:27:28 UTC] Congress: Found 451 PTR filings in 2026FD.zip.
+[2026-11-02 21:27:28 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-02 21:27:28 UTC] ==================================================================
+[2026-11-02 21:27:28 UTC] Sync Completed Successfully! SEC: 33 | COT: 107 | Congress: 300
+[2026-11-02 21:27:28 UTC] ==================================================================
+[2026-11-03 03:01:57 UTC] ==================================================================
+[2026-11-03 03:01:57 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-03 03:01:57 UTC] ==================================================================
+[2026-11-03 03:01:57 UTC] --> Starting SEC Form 4 sync...
+[2026-11-03 03:01:57 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-03 03:02:05 UTC] SEC: Parsed 9 new alerts.
+[2026-11-03 03:02:05 UTC] SEC Form 4: Saved 42 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-03 03:02:05 UTC] --> Starting CFTC COT sync...
+[2026-11-03 03:02:06 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-03 03:02:06 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-03 03:02:06 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-03 03:02:06 UTC] Congress: Found 451 PTR filings in 2026FD.zip.
+[2026-11-03 03:02:06 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-03 03:02:06 UTC] ==================================================================
+[2026-11-03 03:02:06 UTC] Sync Completed Successfully! SEC: 42 | COT: 107 | Congress: 300
+[2026-11-03 03:02:06 UTC] ==================================================================
+[2026-11-03 19:09:53 UTC] ==================================================================
+[2026-11-03 19:09:53 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-03 19:09:53 UTC] ==================================================================
+[2026-11-03 19:09:53 UTC] --> Starting SEC Form 4 sync...
+[2026-11-03 19:09:53 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-03 19:10:03 UTC] SEC: Parsed 6 new alerts.
+[2026-11-03 19:10:03 UTC] SEC Form 4: Saved 48 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-03 19:10:03 UTC] --> Starting CFTC COT sync...
+[2026-11-03 19:10:03 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-03 19:10:03 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-03 19:10:03 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-03 19:10:03 UTC] Congress: Found 451 PTR filings in 2026FD.zip.
+[2026-11-03 19:10:03 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-03 19:10:03 UTC] ==================================================================
+[2026-11-03 19:10:03 UTC] Sync Completed Successfully! SEC: 48 | COT: 107 | Congress: 300
+[2026-11-03 19:10:03 UTC] ==================================================================
+[2026-11-04 00:06:31 UTC] ==================================================================
+[2026-11-04 00:06:31 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-04 00:06:31 UTC] ==================================================================
+[2026-11-04 00:06:31 UTC] --> Starting SEC Form 4 sync...
+[2026-11-04 00:06:46 UTC] SEC Warning: Could not fetch Atom feed: The read operation timed out
+[2026-11-04 00:06:46 UTC] SEC: Parsed 0 new alerts.
+[2026-11-04 00:06:46 UTC] SEC Form 4: Saved 48 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-04 00:06:46 UTC] --> Starting CFTC COT sync...
+[2026-11-04 00:06:46 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-04 00:06:46 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-04 00:06:46 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-04 00:06:47 UTC] Congress: Found 452 PTR filings in 2026FD.zip.
+[2026-11-04 00:06:47 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-04 00:06:47 UTC] ==================================================================
+[2026-11-04 00:06:47 UTC] Sync Completed Successfully! SEC: 48 | COT: 107 | Congress: 300
+[2026-11-04 00:06:47 UTC] ==================================================================
+[2026-11-04 19:26:29 UTC] ==================================================================
+[2026-11-04 19:26:29 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-04 19:26:29 UTC] ==================================================================
+[2026-11-04 19:26:29 UTC] --> Starting SEC Form 4 sync...
+[2026-11-04 19:26:30 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-04 19:26:41 UTC] SEC: Parsed 15 new alerts.
+[2026-11-04 19:26:41 UTC] SEC Form 4: Saved 63 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-04 19:26:41 UTC] --> Starting CFTC COT sync...
+[2026-11-04 19:26:42 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-04 19:26:42 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-04 19:26:42 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-04 19:26:42 UTC] Congress: Found 453 PTR filings in 2026FD.zip.
+[2026-11-04 19:26:42 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-04 19:26:42 UTC] ==================================================================
+[2026-11-04 19:26:42 UTC] Sync Completed Successfully! SEC: 63 | COT: 107 | Congress: 300
+[2026-11-04 19:26:42 UTC] ==================================================================
+[2026-11-05 00:29:08 UTC] ==================================================================
+[2026-11-05 00:29:08 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-05 00:29:08 UTC] ==================================================================
+[2026-11-05 00:29:08 UTC] --> Starting SEC Form 4 sync...
+[2026-11-05 00:29:08 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-05 00:29:22 UTC] SEC: Parsed 15 new alerts.
+[2026-11-05 00:29:22 UTC] SEC Form 4: Saved 78 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-05 00:29:22 UTC] --> Starting CFTC COT sync...
+[2026-11-05 00:29:22 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-05 00:29:22 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-05 00:29:22 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-05 00:29:22 UTC] Congress: Found 453 PTR filings in 2026FD.zip.
+[2026-11-05 00:29:22 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-05 00:29:22 UTC] ==================================================================
+[2026-11-05 00:29:22 UTC] Sync Completed Successfully! SEC: 78 | COT: 107 | Congress: 300
+[2026-11-05 00:29:22 UTC] ==================================================================
+[2026-11-05 19:36:02 UTC] ==================================================================
+[2026-11-05 19:36:02 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-05 19:36:02 UTC] ==================================================================
+[2026-11-05 19:36:02 UTC] --> Starting SEC Form 4 sync...
+[2026-11-05 19:36:13 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-05 19:36:25 UTC] SEC: Parsed 15 new alerts.
+[2026-11-05 19:36:25 UTC] SEC Form 4: Saved 78 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-05 19:36:25 UTC] --> Starting CFTC COT sync...
+[2026-11-05 19:36:26 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-05 19:36:26 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-05 19:36:26 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-05 19:36:26 UTC] Congress: Found 453 PTR filings in 2026FD.zip.
+[2026-11-05 19:36:26 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-05 19:36:26 UTC] ==================================================================
+[2026-11-05 19:36:26 UTC] Sync Completed Successfully! SEC: 78 | COT: 107 | Congress: 300
+[2026-11-05 19:36:26 UTC] ==================================================================
+[2026-11-06 00:48:36 UTC] ==================================================================
+[2026-11-06 00:48:36 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-06 00:48:36 UTC] ==================================================================
+[2026-11-06 00:48:36 UTC] --> Starting SEC Form 4 sync...
+[2026-11-06 00:48:36 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-06 00:48:48 UTC] SEC: Parsed 11 new alerts.
+[2026-11-06 00:48:48 UTC] SEC Form 4: Saved 89 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-06 00:48:48 UTC] --> Starting CFTC COT sync...
+[2026-11-06 00:48:48 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-06 00:48:48 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-06 00:48:48 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-06 00:48:48 UTC] Congress: Found 456 PTR filings in 2026FD.zip.
+[2026-11-06 00:48:48 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-06 00:48:48 UTC] ==================================================================
+[2026-11-06 00:48:48 UTC] Sync Completed Successfully! SEC: 89 | COT: 107 | Congress: 300
+[2026-11-06 00:48:48 UTC] ==================================================================
+[2026-11-06 18:57:24 UTC] ==================================================================
+[2026-11-06 18:57:24 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-06 18:57:24 UTC] ==================================================================
+[2026-11-06 18:57:24 UTC] --> Starting SEC Form 4 sync...
+[2026-11-06 18:57:25 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-06 18:57:34 UTC] SEC: Parsed 4 new alerts.
+[2026-11-06 18:57:34 UTC] SEC Form 4: Saved 93 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-06 18:57:34 UTC] --> Starting CFTC COT sync...
+[2026-11-06 18:57:35 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-06 18:57:35 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-06 18:57:35 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-06 18:57:35 UTC] Congress: Found 456 PTR filings in 2026FD.zip.
+[2026-11-06 18:57:35 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-06 18:57:35 UTC] ==================================================================
+[2026-11-06 18:57:35 UTC] Sync Completed Successfully! SEC: 93 | COT: 107 | Congress: 300
+[2026-11-06 18:57:35 UTC] ==================================================================
+[2026-11-06 23:41:55 UTC] ==================================================================
+[2026-11-06 23:41:55 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-06 23:41:55 UTC] ==================================================================
+[2026-11-06 23:41:55 UTC] --> Starting SEC Form 4 sync...
+[2026-11-06 23:41:55 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-06 23:42:04 UTC] SEC: Parsed 11 new alerts.
+[2026-11-06 23:42:04 UTC] SEC Form 4: Saved 104 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-06 23:42:04 UTC] --> Starting CFTC COT sync...
+[2026-11-06 23:42:05 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-06 23:42:05 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-06 23:42:05 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-06 23:42:05 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-06 23:42:05 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-06 23:42:05 UTC] ==================================================================
+[2026-11-06 23:42:05 UTC] Sync Completed Successfully! SEC: 104 | COT: 107 | Congress: 300
+[2026-11-06 23:42:05 UTC] ==================================================================
+[2026-11-07 03:44:13 UTC] ==================================================================
+[2026-11-07 03:44:13 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-07 03:44:13 UTC] ==================================================================
+[2026-11-07 03:44:13 UTC] --> Starting SEC Form 4 sync...
+[2026-11-07 03:44:13 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-07 03:44:23 UTC] SEC: Parsed 14 new alerts.
+[2026-11-07 03:44:23 UTC] SEC Form 4: Saved 118 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-07 03:44:23 UTC] --> Starting CFTC COT sync...
+[2026-11-07 03:44:23 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-07 03:44:23 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-07 03:44:23 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-07 03:44:23 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-07 03:44:23 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-07 03:44:23 UTC] ==================================================================
+[2026-11-07 03:44:23 UTC] Sync Completed Successfully! SEC: 118 | COT: 107 | Congress: 300
+[2026-11-07 03:44:23 UTC] ==================================================================
+[2026-11-07 10:47:02 UTC] ==================================================================
+[2026-11-07 10:47:02 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-07 10:47:02 UTC] ==================================================================
+[2026-11-07 10:47:02 UTC] --> Starting SEC Form 4 sync...
+[2026-11-07 10:47:02 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-07 10:47:11 UTC] SEC: Parsed 14 new alerts.
+[2026-11-07 10:47:11 UTC] SEC Form 4: Saved 118 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-07 10:47:11 UTC] --> Starting CFTC COT sync...
+[2026-11-07 10:47:11 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-07 10:47:11 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-07 10:47:11 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-07 10:47:11 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-07 10:47:11 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-07 10:47:11 UTC] ==================================================================
+[2026-11-07 10:47:11 UTC] Sync Completed Successfully! SEC: 118 | COT: 107 | Congress: 300
+[2026-11-07 10:47:11 UTC] ==================================================================
+[2026-11-07 17:10:15 UTC] ==================================================================
+[2026-11-07 17:10:15 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-07 17:10:15 UTC] ==================================================================
+[2026-11-07 17:10:15 UTC] --> Starting SEC Form 4 sync...
+[2026-11-07 17:10:15 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-07 17:10:25 UTC] SEC: Parsed 14 new alerts.
+[2026-11-07 17:10:25 UTC] SEC Form 4: Saved 118 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-07 17:10:25 UTC] --> Starting CFTC COT sync...
+[2026-11-07 17:10:25 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-07 17:10:25 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-07 17:10:25 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-07 17:10:25 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-07 17:10:25 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-07 17:10:25 UTC] ==================================================================
+[2026-11-07 17:10:25 UTC] Sync Completed Successfully! SEC: 118 | COT: 107 | Congress: 300
+[2026-11-07 17:10:25 UTC] ==================================================================
+[2026-11-07 21:13:50 UTC] ==================================================================
+[2026-11-07 21:13:50 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-07 21:13:50 UTC] ==================================================================
+[2026-11-07 21:13:50 UTC] --> Starting SEC Form 4 sync...
+[2026-11-07 21:13:50 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-07 21:14:00 UTC] SEC: Parsed 14 new alerts.
+[2026-11-07 21:14:00 UTC] SEC Form 4: Saved 118 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-07 21:14:00 UTC] --> Starting CFTC COT sync...
+[2026-11-07 21:14:00 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-07 21:14:00 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-07 21:14:00 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-07 21:14:00 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-07 21:14:00 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-07 21:14:00 UTC] ==================================================================
+[2026-11-07 21:14:00 UTC] Sync Completed Successfully! SEC: 118 | COT: 107 | Congress: 300
+[2026-11-07 21:14:00 UTC] ==================================================================
+[2026-11-08 00:57:56 UTC] ==================================================================
+[2026-11-08 00:57:56 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-08 00:57:56 UTC] ==================================================================
+[2026-11-08 00:57:56 UTC] --> Starting SEC Form 4 sync...
+[2026-11-08 00:57:56 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-08 00:58:05 UTC] SEC: Parsed 14 new alerts.
+[2026-11-08 00:58:05 UTC] SEC Form 4: Saved 118 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-08 00:58:05 UTC] --> Starting CFTC COT sync...
+[2026-11-08 00:58:05 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-08 00:58:05 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-08 00:58:05 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-08 00:58:06 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-08 00:58:06 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-08 00:58:06 UTC] ==================================================================
+[2026-11-08 00:58:06 UTC] Sync Completed Successfully! SEC: 118 | COT: 107 | Congress: 300
+[2026-11-08 00:58:06 UTC] ==================================================================
+[2026-11-08 08:18:38 UTC] ==================================================================
+[2026-11-08 08:18:38 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-08 08:18:38 UTC] ==================================================================
+[2026-11-08 08:18:38 UTC] --> Starting SEC Form 4 sync...
+[2026-11-08 08:18:38 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-08 08:18:47 UTC] SEC: Parsed 14 new alerts.
+[2026-11-08 08:18:47 UTC] SEC Form 4: Saved 118 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-08 08:18:47 UTC] --> Starting CFTC COT sync...
+[2026-11-08 08:18:48 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-08 08:18:48 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-08 08:18:48 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-08 08:18:48 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-08 08:18:48 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-08 08:18:48 UTC] ==================================================================
+[2026-11-08 08:18:48 UTC] Sync Completed Successfully! SEC: 118 | COT: 107 | Congress: 300
+[2026-11-08 08:18:48 UTC] ==================================================================
+[2026-11-08 16:27:54 UTC] ==================================================================
+[2026-11-08 16:27:54 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-08 16:27:54 UTC] ==================================================================
+[2026-11-08 16:27:54 UTC] --> Starting SEC Form 4 sync...
+[2026-11-08 16:27:55 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-08 16:28:05 UTC] SEC: Parsed 14 new alerts.
+[2026-11-08 16:28:05 UTC] SEC Form 4: Saved 118 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-08 16:28:05 UTC] --> Starting CFTC COT sync...
+[2026-11-08 16:28:06 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-08 16:28:06 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-08 16:28:06 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-08 16:28:06 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-08 16:28:06 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-08 16:28:06 UTC] ==================================================================
+[2026-11-08 16:28:06 UTC] Sync Completed Successfully! SEC: 118 | COT: 107 | Congress: 300
+[2026-11-08 16:28:06 UTC] ==================================================================
+[2026-11-08 21:28:31 UTC] ==================================================================
+[2026-11-08 21:28:31 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-08 21:28:31 UTC] ==================================================================
+[2026-11-08 21:28:31 UTC] --> Starting SEC Form 4 sync...
+[2026-11-08 21:28:31 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-08 21:28:40 UTC] SEC: Parsed 14 new alerts.
+[2026-11-08 21:28:40 UTC] SEC Form 4: Saved 118 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-08 21:28:40 UTC] --> Starting CFTC COT sync...
+[2026-11-08 21:28:41 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-08 21:28:41 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-08 21:28:41 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-08 21:28:41 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-08 21:28:41 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-08 21:28:41 UTC] ==================================================================
+[2026-11-08 21:28:41 UTC] Sync Completed Successfully! SEC: 118 | COT: 107 | Congress: 300
+[2026-11-08 21:28:41 UTC] ==================================================================
+[2026-11-09 01:19:02 UTC] ==================================================================
+[2026-11-09 01:19:02 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-09 01:19:02 UTC] ==================================================================
+[2026-11-09 01:19:02 UTC] --> Starting SEC Form 4 sync...
+[2026-11-09 01:19:02 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-09 01:19:15 UTC] SEC: Parsed 14 new alerts.
+[2026-11-09 01:19:15 UTC] SEC Form 4: Saved 118 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-09 01:19:15 UTC] --> Starting CFTC COT sync...
+[2026-11-09 01:19:16 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-09 01:19:16 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-09 01:19:16 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-09 01:19:16 UTC] Congress: Found 457 PTR filings in 2026FD.zip.
+[2026-11-09 01:19:16 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-09 01:19:16 UTC] ==================================================================
+[2026-11-09 01:19:16 UTC] Sync Completed Successfully! SEC: 118 | COT: 107 | Congress: 300
+[2026-11-09 01:19:16 UTC] ==================================================================
+[2026-11-09 21:58:54 UTC] ==================================================================
+[2026-11-09 21:58:54 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-09 21:58:54 UTC] ==================================================================
+[2026-11-09 21:58:54 UTC] --> Starting SEC Form 4 sync...
+[2026-11-09 21:58:54 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-09 21:59:03 UTC] SEC: Parsed 15 new alerts.
+[2026-11-09 21:59:03 UTC] SEC Form 4: Saved 133 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-09 21:59:03 UTC] --> Starting CFTC COT sync...
+[2026-11-09 21:59:03 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-09 21:59:03 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-09 21:59:03 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-09 21:59:03 UTC] Congress: Found 460 PTR filings in 2026FD.zip.
+[2026-11-09 21:59:03 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-09 21:59:03 UTC] ==================================================================
+[2026-11-09 21:59:03 UTC] Sync Completed Successfully! SEC: 133 | COT: 107 | Congress: 300
+[2026-11-09 21:59:03 UTC] ==================================================================
+[2026-11-10 04:02:26 UTC] ==================================================================
+[2026-11-10 04:02:26 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-10 04:02:26 UTC] ==================================================================
+[2026-11-10 04:02:26 UTC] --> Starting SEC Form 4 sync...
+[2026-11-10 04:02:26 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-10 04:02:33 UTC] SEC: Parsed 7 new alerts.
+[2026-11-10 04:02:33 UTC] SEC Form 4: Saved 140 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-10 04:02:33 UTC] --> Starting CFTC COT sync...
+[2026-11-10 04:02:34 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-10 04:02:34 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-10 04:02:34 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-10 04:02:34 UTC] Congress: Found 460 PTR filings in 2026FD.zip.
+[2026-11-10 04:02:34 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-10 04:02:34 UTC] ==================================================================
+[2026-11-10 04:02:34 UTC] Sync Completed Successfully! SEC: 140 | COT: 107 | Congress: 300
+[2026-11-10 04:02:34 UTC] ==================================================================
+[2026-11-10 19:24:34 UTC] ==================================================================
+[2026-11-10 19:24:34 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-10 19:24:34 UTC] ==================================================================
+[2026-11-10 19:24:34 UTC] --> Starting SEC Form 4 sync...
+[2026-11-10 19:24:34 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-10 19:24:42 UTC] SEC: Parsed 15 new alerts.
+[2026-11-10 19:24:42 UTC] SEC Form 4: Saved 155 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-10 19:24:42 UTC] --> Starting CFTC COT sync...
+[2026-11-10 19:24:42 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-10 19:24:42 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-10 19:24:42 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-10 19:24:43 UTC] Congress: Found 462 PTR filings in 2026FD.zip.
+[2026-11-10 19:24:43 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-10 19:24:43 UTC] ==================================================================
+[2026-11-10 19:24:43 UTC] Sync Completed Successfully! SEC: 155 | COT: 107 | Congress: 300
+[2026-11-10 19:24:43 UTC] ==================================================================
+[2026-11-11 00:11:29 UTC] ==================================================================
+[2026-11-11 00:11:29 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-11 00:11:29 UTC] ==================================================================
+[2026-11-11 00:11:29 UTC] --> Starting SEC Form 4 sync...
+[2026-11-11 00:11:30 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-11 00:11:38 UTC] SEC: Parsed 15 new alerts.
+[2026-11-11 00:11:38 UTC] SEC Form 4: Saved 170 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-11 00:11:38 UTC] --> Starting CFTC COT sync...
+[2026-11-11 00:11:39 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-11 00:11:39 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-11 00:11:39 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-11 00:11:39 UTC] Congress: Found 460 PTR filings in 2026FD.zip.
+[2026-11-11 00:11:39 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-11 00:11:39 UTC] ==================================================================
+[2026-11-11 00:11:39 UTC] Sync Completed Successfully! SEC: 170 | COT: 107 | Congress: 300
+[2026-11-11 00:11:39 UTC] ==================================================================
+[2026-11-11 19:18:32 UTC] ==================================================================
+[2026-11-11 19:18:32 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-11 19:18:32 UTC] ==================================================================
+[2026-11-11 19:18:32 UTC] --> Starting SEC Form 4 sync...
+[2026-11-11 19:18:32 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-11 19:18:43 UTC] SEC: Parsed 13 new alerts.
+[2026-11-11 19:18:43 UTC] SEC Form 4: Saved 183 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-11 19:18:43 UTC] --> Starting CFTC COT sync...
+[2026-11-11 19:18:43 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-11 19:18:43 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-11 19:18:43 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-11 19:18:44 UTC] Congress: Found 462 PTR filings in 2026FD.zip.
+[2026-11-11 19:18:44 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-11 19:18:44 UTC] ==================================================================
+[2026-11-11 19:18:44 UTC] Sync Completed Successfully! SEC: 183 | COT: 107 | Congress: 300
+[2026-11-11 19:18:44 UTC] ==================================================================
+[2026-11-12 01:37:31 UTC] ==================================================================
+[2026-11-12 01:37:31 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-12 01:37:31 UTC] ==================================================================
+[2026-11-12 01:37:31 UTC] --> Starting SEC Form 4 sync...
+[2026-11-12 01:37:31 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-12 01:37:40 UTC] SEC: Parsed 13 new alerts.
+[2026-11-12 01:37:40 UTC] SEC Form 4: Saved 183 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-12 01:37:40 UTC] --> Starting CFTC COT sync...
+[2026-11-12 01:37:40 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-12 01:37:40 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-12 01:37:40 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-12 01:37:40 UTC] Congress: Found 465 PTR filings in 2026FD.zip.
+[2026-11-12 01:37:40 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-12 01:37:40 UTC] ==================================================================
+[2026-11-12 01:37:40 UTC] Sync Completed Successfully! SEC: 183 | COT: 107 | Congress: 300
+[2026-11-12 01:37:40 UTC] ==================================================================
+[2026-11-12 19:37:12 UTC] ==================================================================
+[2026-11-12 19:37:12 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-12 19:37:12 UTC] ==================================================================
+[2026-11-12 19:37:12 UTC] --> Starting SEC Form 4 sync...
+[2026-11-12 19:37:12 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-12 19:37:22 UTC] SEC: Parsed 14 new alerts.
+[2026-11-12 19:37:22 UTC] SEC Form 4: Saved 197 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-12 19:37:22 UTC] --> Starting CFTC COT sync...
+[2026-11-12 19:37:22 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-12 19:37:22 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-12 19:37:22 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-12 19:37:23 UTC] Congress: Found 465 PTR filings in 2026FD.zip.
+[2026-11-12 19:37:23 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-12 19:37:23 UTC] ==================================================================
+[2026-11-12 19:37:23 UTC] Sync Completed Successfully! SEC: 197 | COT: 107 | Congress: 300
+[2026-11-12 19:37:23 UTC] ==================================================================
+[2026-11-13 00:55:25 UTC] ==================================================================
+[2026-11-13 00:55:25 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-13 00:55:25 UTC] ==================================================================
+[2026-11-13 00:55:25 UTC] --> Starting SEC Form 4 sync...
+[2026-11-13 00:55:25 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-13 00:55:38 UTC] SEC: Parsed 11 new alerts.
+[2026-11-13 00:55:38 UTC] SEC Form 4: Saved 208 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-13 00:55:38 UTC] --> Starting CFTC COT sync...
+[2026-11-13 00:55:39 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-13 00:55:39 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-13 00:55:39 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-13 00:55:39 UTC] Congress: Found 467 PTR filings in 2026FD.zip.
+[2026-11-13 00:55:39 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-13 00:55:39 UTC] ==================================================================
+[2026-11-13 00:55:39 UTC] Sync Completed Successfully! SEC: 208 | COT: 107 | Congress: 300
+[2026-11-13 00:55:39 UTC] ==================================================================
+[2026-11-13 19:16:23 UTC] ==================================================================
+[2026-11-13 19:16:23 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-13 19:16:23 UTC] ==================================================================
+[2026-11-13 19:16:23 UTC] --> Starting SEC Form 4 sync...
+[2026-11-13 19:16:23 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-13 19:16:35 UTC] SEC: Parsed 7 new alerts.
+[2026-11-13 19:16:35 UTC] SEC Form 4: Saved 215 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-13 19:16:35 UTC] --> Starting CFTC COT sync...
+[2026-11-13 19:16:36 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-13 19:16:36 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-13 19:16:36 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-13 19:16:36 UTC] Congress: Found 467 PTR filings in 2026FD.zip.
+[2026-11-13 19:16:36 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-13 19:16:36 UTC] ==================================================================
+[2026-11-13 19:16:36 UTC] Sync Completed Successfully! SEC: 215 | COT: 107 | Congress: 300
+[2026-11-13 19:16:36 UTC] ==================================================================
+[2026-11-14 00:25:42 UTC] ==================================================================
+[2026-11-14 00:25:42 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-14 00:25:42 UTC] ==================================================================
+[2026-11-14 00:25:42 UTC] --> Starting SEC Form 4 sync...
+[2026-11-14 00:25:42 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-14 00:25:54 UTC] SEC: Parsed 15 new alerts.
+[2026-11-14 00:25:54 UTC] SEC Form 4: Saved 230 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-14 00:25:54 UTC] --> Starting CFTC COT sync...
+[2026-11-14 00:25:55 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-14 00:25:55 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-14 00:25:55 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-14 00:25:55 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-14 00:25:55 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-14 00:25:55 UTC] ==================================================================
+[2026-11-14 00:25:55 UTC] Sync Completed Successfully! SEC: 230 | COT: 107 | Congress: 300
+[2026-11-14 00:25:55 UTC] ==================================================================
+[2026-11-14 04:03:45 UTC] ==================================================================
+[2026-11-14 04:03:45 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-14 04:03:45 UTC] ==================================================================
+[2026-11-14 04:03:45 UTC] --> Starting SEC Form 4 sync...
+[2026-11-14 04:03:45 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-14 04:03:52 UTC] SEC: Parsed 10 new alerts.
+[2026-11-14 04:03:52 UTC] SEC Form 4: Saved 240 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-14 04:03:52 UTC] --> Starting CFTC COT sync...
+[2026-11-14 04:03:53 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-14 04:03:53 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-14 04:03:53 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-14 04:03:53 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-14 04:03:53 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-14 04:03:53 UTC] ==================================================================
+[2026-11-14 04:03:53 UTC] Sync Completed Successfully! SEC: 240 | COT: 107 | Congress: 300
+[2026-11-14 04:03:53 UTC] ==================================================================
+[2026-11-14 12:42:40 UTC] ==================================================================
+[2026-11-14 12:42:40 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-14 12:42:40 UTC] ==================================================================
+[2026-11-14 12:42:40 UTC] --> Starting SEC Form 4 sync...
+[2026-11-14 12:42:40 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-14 12:42:48 UTC] SEC: Parsed 10 new alerts.
+[2026-11-14 12:42:48 UTC] SEC Form 4: Saved 240 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-14 12:42:48 UTC] --> Starting CFTC COT sync...
+[2026-11-14 12:42:49 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-14 12:42:49 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-14 12:42:49 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-14 12:42:49 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-14 12:42:49 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-14 12:42:49 UTC] ==================================================================
+[2026-11-14 12:42:49 UTC] Sync Completed Successfully! SEC: 240 | COT: 107 | Congress: 300
+[2026-11-14 12:42:49 UTC] ==================================================================
+[2026-11-14 18:54:12 UTC] ==================================================================
+[2026-11-14 18:54:12 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-14 18:54:12 UTC] ==================================================================
+[2026-11-14 18:54:12 UTC] --> Starting SEC Form 4 sync...
+[2026-11-14 18:54:12 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-14 18:54:21 UTC] SEC: Parsed 10 new alerts.
+[2026-11-14 18:54:21 UTC] SEC Form 4: Saved 240 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-14 18:54:21 UTC] --> Starting CFTC COT sync...
+[2026-11-14 18:54:21 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-14 18:54:21 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-14 18:54:21 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-14 18:54:21 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-14 18:54:21 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-14 18:54:21 UTC] ==================================================================
+[2026-11-14 18:54:21 UTC] Sync Completed Successfully! SEC: 240 | COT: 107 | Congress: 300
+[2026-11-14 18:54:21 UTC] ==================================================================
+[2026-11-14 23:30:04 UTC] ==================================================================
+[2026-11-14 23:30:04 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-14 23:30:04 UTC] ==================================================================
+[2026-11-14 23:30:04 UTC] --> Starting SEC Form 4 sync...
+[2026-11-14 23:30:05 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-14 23:30:12 UTC] SEC: Parsed 10 new alerts.
+[2026-11-14 23:30:12 UTC] SEC Form 4: Saved 240 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-14 23:30:12 UTC] --> Starting CFTC COT sync...
+[2026-11-14 23:30:12 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-14 23:30:12 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-14 23:30:12 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-14 23:30:13 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-14 23:30:13 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-14 23:30:13 UTC] ==================================================================
+[2026-11-14 23:30:13 UTC] Sync Completed Successfully! SEC: 240 | COT: 107 | Congress: 300
+[2026-11-14 23:30:13 UTC] ==================================================================
+[2026-11-15 03:49:08 UTC] ==================================================================
+[2026-11-15 03:49:08 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-15 03:49:08 UTC] ==================================================================
+[2026-11-15 03:49:08 UTC] --> Starting SEC Form 4 sync...
+[2026-11-15 03:49:09 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-15 03:49:17 UTC] SEC: Parsed 10 new alerts.
+[2026-11-15 03:49:17 UTC] SEC Form 4: Saved 240 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-15 03:49:17 UTC] --> Starting CFTC COT sync...
+[2026-11-15 03:49:18 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-15 03:49:18 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-15 03:49:18 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-15 03:49:18 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-15 03:49:18 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-15 03:49:18 UTC] ==================================================================
+[2026-11-15 03:49:18 UTC] Sync Completed Successfully! SEC: 240 | COT: 107 | Congress: 300
+[2026-11-15 03:49:18 UTC] ==================================================================
+[2026-11-15 11:38:50 UTC] ==================================================================
+[2026-11-15 11:38:50 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-15 11:38:50 UTC] ==================================================================
+[2026-11-15 11:38:50 UTC] --> Starting SEC Form 4 sync...
+[2026-11-15 11:39:02 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-15 11:39:10 UTC] SEC: Parsed 10 new alerts.
+[2026-11-15 11:39:10 UTC] SEC Form 4: Saved 240 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-15 11:39:10 UTC] --> Starting CFTC COT sync...
+[2026-11-15 11:39:10 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-15 11:39:10 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-15 11:39:10 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-15 11:39:10 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-15 11:39:10 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-15 11:39:10 UTC] ==================================================================
+[2026-11-15 11:39:10 UTC] Sync Completed Successfully! SEC: 240 | COT: 107 | Congress: 300
+[2026-11-15 11:39:10 UTC] ==================================================================
+[2026-11-15 18:12:27 UTC] ==================================================================
+[2026-11-15 18:12:27 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-15 18:12:27 UTC] ==================================================================
+[2026-11-15 18:12:27 UTC] --> Starting SEC Form 4 sync...
+[2026-11-15 18:12:32 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-15 18:12:42 UTC] SEC: Parsed 10 new alerts.
+[2026-11-15 18:12:42 UTC] SEC Form 4: Saved 240 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-15 18:12:42 UTC] --> Starting CFTC COT sync...
+[2026-11-15 18:12:43 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-15 18:12:43 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-15 18:12:43 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-15 18:12:43 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-15 18:12:43 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-15 18:12:43 UTC] ==================================================================
+[2026-11-15 18:12:43 UTC] Sync Completed Successfully! SEC: 240 | COT: 107 | Congress: 300
+[2026-11-15 18:12:43 UTC] ==================================================================
+[2026-11-15 23:38:56 UTC] ==================================================================
+[2026-11-15 23:38:56 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-15 23:38:56 UTC] ==================================================================
+[2026-11-15 23:38:56 UTC] --> Starting SEC Form 4 sync...
+[2026-11-15 23:38:57 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-15 23:39:09 UTC] SEC: Parsed 10 new alerts.
+[2026-11-15 23:39:09 UTC] SEC Form 4: Saved 240 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-15 23:39:09 UTC] --> Starting CFTC COT sync...
+[2026-11-15 23:39:10 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-15 23:39:10 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-15 23:39:10 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-15 23:39:10 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-15 23:39:10 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-15 23:39:10 UTC] ==================================================================
+[2026-11-15 23:39:10 UTC] Sync Completed Successfully! SEC: 240 | COT: 107 | Congress: 300
+[2026-11-15 23:39:10 UTC] ==================================================================
+[2026-11-16 21:41:48 UTC] ==================================================================
+[2026-11-16 21:41:48 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-16 21:41:48 UTC] ==================================================================
+[2026-11-16 21:41:48 UTC] --> Starting SEC Form 4 sync...
+[2026-11-16 21:42:03 UTC] SEC Warning: Could not fetch Atom feed: The read operation timed out
+[2026-11-16 21:42:03 UTC] SEC: Parsed 0 new alerts.
+[2026-11-16 21:42:03 UTC] SEC Form 4: Saved 240 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-16 21:42:03 UTC] --> Starting CFTC COT sync...
+[2026-11-16 21:42:04 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-16 21:42:04 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-16 21:42:04 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-16 21:42:04 UTC] Congress: Found 468 PTR filings in 2026FD.zip.
+[2026-11-16 21:42:04 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-16 21:42:04 UTC] ==================================================================
+[2026-11-16 21:42:04 UTC] Sync Completed Successfully! SEC: 240 | COT: 107 | Congress: 300
+[2026-11-16 21:42:04 UTC] ==================================================================
+[2026-11-17 04:20:23 UTC] ==================================================================
+[2026-11-17 04:20:23 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-17 04:20:23 UTC] ==================================================================
+[2026-11-17 04:20:23 UTC] --> Starting SEC Form 4 sync...
+[2026-11-17 04:20:23 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-17 04:20:33 UTC] SEC: Parsed 7 new alerts.
+[2026-11-17 04:20:33 UTC] SEC Form 4: Saved 247 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-17 04:20:33 UTC] --> Starting CFTC COT sync...
+[2026-11-17 04:20:33 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-17 04:20:33 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-17 04:20:33 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-17 04:20:33 UTC] Congress: Found 472 PTR filings in 2026FD.zip.
+[2026-11-17 04:20:34 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-17 04:20:34 UTC] ==================================================================
+[2026-11-17 04:20:34 UTC] Sync Completed Successfully! SEC: 247 | COT: 107 | Congress: 300
+[2026-11-17 04:20:34 UTC] ==================================================================
+[2026-11-17 20:31:39 UTC] ==================================================================
+[2026-11-17 20:31:39 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-17 20:31:39 UTC] ==================================================================
+[2026-11-17 20:31:39 UTC] --> Starting SEC Form 4 sync...
+[2026-11-17 20:31:44 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-17 20:31:54 UTC] SEC: Parsed 13 new alerts.
+[2026-11-17 20:31:54 UTC] SEC Form 4: Saved 260 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-17 20:31:54 UTC] --> Starting CFTC COT sync...
+[2026-11-17 20:31:54 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-17 20:31:54 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-17 20:31:54 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-17 20:31:54 UTC] Congress: Found 473 PTR filings in 2026FD.zip.
+[2026-11-17 20:31:54 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-17 20:31:54 UTC] ==================================================================
+[2026-11-17 20:31:54 UTC] Sync Completed Successfully! SEC: 260 | COT: 107 | Congress: 300
+[2026-11-17 20:31:54 UTC] ==================================================================
+[2026-11-18 02:45:35 UTC] ==================================================================
+[2026-11-18 02:45:35 UTC] WhaleRadar Unified Master Data Sync Started
+[2026-11-18 02:45:35 UTC] ==================================================================
+[2026-11-18 02:45:35 UTC] --> Starting SEC Form 4 sync...
+[2026-11-18 02:45:35 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-18 02:45:43 UTC] SEC: Parsed 15 new alerts.
+[2026-11-18 02:45:43 UTC] SEC Form 4: Saved 275 total entries to /home/runner/work/WhaleWatch/WhaleWatch/data/sec_form4_latest.json
+[2026-11-18 02:45:43 UTC] --> Starting CFTC COT sync...
+[2026-11-18 02:45:44 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-18 02:45:44 UTC] CFTC COT: Saved to /home/runner/work/WhaleWatch/WhaleWatch/data/cot_latest.json
+[2026-11-18 02:45:44 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-18 02:45:44 UTC] Congress: Found 473 PTR filings in 2026FD.zip.
+[2026-11-18 02:45:44 UTC] Congress: Saved 300 PTR disclosures to /home/runner/work/WhaleWatch/WhaleWatch/data/congress_latest.json
+[2026-11-18 02:45:44 UTC] ==================================================================
+[2026-11-18 02:45:44 UTC] Sync Completed Successfully! SEC: 275 | COT: 107 | Congress: 300
+[2026-11-18 02:45:44 UTC] ==================================================================
+[2026-11-18 19:34:59 UTC] ==================================================================
+[2026-11-18 19:34:59 UTC] WhaleRadar Unified Master Data Sync Started (data/WhaleRadar)
+[2026-11-18 19:34:59 UTC] ==================================================================
+[2026-11-18 19:34:59 UTC] --> Starting SEC Form 4 sync...
+[2026-11-18 19:35:00 UTC] SEC: Found 40 entries in current Atom feed.
+[2026-11-18 19:35:33 UTC] SEC: Parsed 21 new alerts.
+[2026-11-18 19:35:33 UTC] SEC Form 4: Saved 296 total entries to C:\Users\tanja\.gemini\antigravity\projects\data\WhaleRadar\sec_form4_latest.json
+[2026-11-18 19:35:33 UTC] --> Starting CFTC COT sync...
+[2026-11-18 19:35:35 UTC] CFTC COT: Loaded 107 markets from FuturesBench.
+[2026-11-18 19:35:35 UTC] CFTC COT: Saved to C:\Users\tanja\.gemini\antigravity\projects\data\WhaleRadar\cot_latest.json
+[2026-11-18 19:35:35 UTC] --> Starting U.S. House STOCK Act PTR sync...
+[2026-11-18 19:35:37 UTC] Congress: Found 473 PTR filings in 2026FD.zip.
+[2026-11-18 19:35:37 UTC] Congress: Saved 300 PTR disclosures to C:\Users\tanja\.gemini\antigravity\projects\data\WhaleRadar\congress_latest.json
+[2026-11-18 19:35:37 UTC] ==================================================================
+[2026-11-18 19:35:37 UTC] Sync Completed Successfully! SEC: 296 | COT: 107 | Congress: 300
+[2026-11-18 19:35:37 UTC] ==================================================================
