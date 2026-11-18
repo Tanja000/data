@@ -1,0 +1,8 @@
+{
+  "sync_time": "2026-11-18T02:45:35.068985Z",
+  "sec_count": 275,
+  "cot_count": 107,
+  "congress_count": 300,
+  "status": "success",
+  "log_path": "logs/sync.log"
+}
