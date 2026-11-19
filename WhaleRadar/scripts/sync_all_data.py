@@ -38,6 +38,21 @@ os.makedirs(LOGS_DIR, exist_ok=True)
 LOG_FILE = os.path.join(LOGS_DIR, "sync.log")
 STATUS_FILE = os.path.join(WHALERADAR_DIR, "sync_status.json")
 
+def truncate_log_file(max_lines=3000):
+    """Keeps the log file lean and prevents it from growing indefinitely over time."""
+    if not os.path.exists(LOG_FILE):
+        return
+    try:
+        with open(LOG_FILE, "r", encoding="utf-8", errors="ignore") as f:
+            lines = f.readlines()
+        if len(lines) > max_lines:
+            trimmed = lines[-max_lines:]
+            with open(LOG_FILE, "w", encoding="utf-8") as f:
+                f.writelines(trimmed)
+            print(f"Log trimmed: kept newest {len(trimmed)} lines.")
+    except Exception as e:
+        print(f"Notice: Log rotation skipped: {e}")
+
 def log(msg):
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     line = f"[{ts}] {msg}"
@@ -418,6 +433,7 @@ def main():
     log("==================================================================")
     log(f"Sync Completed Successfully! SEC: {stats['sec_count']} | COT: {stats['cot_count']} | Congress: {stats['congress_count']}")
     log("==================================================================")
+    truncate_log_file(3000)
 
 if __name__ == "__main__":
     main()
